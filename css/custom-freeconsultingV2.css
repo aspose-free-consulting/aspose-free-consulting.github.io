@@ -316,7 +316,7 @@
     display: block;
     float: left;
     text-align: center;
-    margin-top: 60px;
+    margin-top: auto!important;
     font-family: "Open Sans";
 }
 
