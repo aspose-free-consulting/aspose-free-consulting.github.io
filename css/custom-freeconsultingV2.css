@@ -292,7 +292,7 @@
 }
 .fc-link{
     font-size: 18px;
-    font-family: "Open Sans";
+    font-family: "Open Sans" , sans-serif;
     color: rgb(33, 100, 159);
     font-weight: bold;
     line-height: 1.444;
@@ -302,7 +302,7 @@
 }
 .fc-panel-title p {
     font-size: 16px;
-    font-family: "Open Sans";
+    font-family: "Open Sans" , sans-serif;
     font-style: normal;
     line-height:26px;
     display: block;
@@ -317,7 +317,7 @@
     float: left;
     text-align: center;
     margin-top: auto!important;
-    font-family: "Open Sans";
+    font-family: "Open Sans" , sans-serif;
 }
 
 .centerbutton a{
